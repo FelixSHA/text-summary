@@ -1,3 +1,12 @@
+# Brainstorming und Insights gathering (Definitionen und Umfang, ggf. Gedanken zum Inhalt)
+wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person sollte sich dann ein Fokuspunkt aussuchen (Bis Donnerstag , den 11.05.23).
+- Projektauftrag (Scope and outer scope)
+- Lasten- und Pflichtenheft
+- Projektstrukturplan
+- Netzplan oder Gatt-Chart
+Mögliche Unterpunkte sollten herausgefunden werden
+
+
 # text-summary
 
 ## Deadlines
@@ -28,25 +37,17 @@ Peer-Evaluation:
 
 ## Projectscope
 1. Projektleistung: Was genau soll im Rahmen des Projekts erreicht werden? Was sind die Ziele und Ergebnisse, die erwartet werden?
-  - 
 
 2. Projektdauer: Wie lange wird das Projekt dauern? Wann muss es abgeschlossen sein?
-  - 
 
 3. Projektressourcen: Welche Ressourcen werden benötigt, um das Projekt durchzuführen, wie z.B. Arbeitskräfte, Budget, Technologie, Ausrüstung, Materialien usw.?
-  - 
 
 4. Projektumfang: Was ist im Projekt enthalten und was nicht? Welche Aktivitäten und Prozesse sind im Projektumfang enthalten?
-  - 
 
 5. Projektmeilensteine: Welche wichtigen Ereignisse oder Schritte müssen im Rahmen des Projekts erreicht werden, um das Projekt erfolgreich abzuschließen?
-  - 
 
 6. Projektgrenzen: Was ist der Rahmen des Projekts? Was sind die Grenzen und Einschränkungen, die berücksichtigt werden müssen?
-  - 
 
 7. Risiken und Herausforderungen: Welche potenziellen Risiken und Herausforderungen können im Verlauf des Projekts auftreten, und wie sollen sie bewältigt werden?
-  - 
 
 8. Kommunikations- und Berichterstattungsanforderungen: Welche Informationen müssen innerhalb des Projekts kommuniziert werden, und wer muss sie erhalten? Welche Berichte müssen erstellt und vorgelegt werden?
-  - 
