@@ -46,8 +46,8 @@ Peer-Evaluation:
 8. Kommunikations- und Berichterstattungsanforderungen: Welche Informationen müssen innerhalb des Projekts kommuniziert werden, und wer muss sie erhalten? Welche Berichte müssen erstellt und vorgelegt werden?
 
 
-
-# Brainstorming und Insights gathering (Definitionen und Umfang, ggf. Gedanken zum Inhalt)
+# Arbeitsstand und Fortschritt
+## Brainstorming und Insights gathering (Definitionen und Umfang, ggf. Gedanken zum Inhalt)
 wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person sollte sich dann ein Fokuspunkt aussuchen (Bis Donnerstag , den 11.05.23).
 - Projektauftrag (Scope and outer scope)
 - Lasten- und Pflichtenheft
