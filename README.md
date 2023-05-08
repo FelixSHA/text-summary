@@ -1,10 +1,3 @@
-# Brainstorming und Insights gathering (Definitionen und Umfang, ggf. Gedanken zum Inhalt)
-wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person sollte sich dann ein Fokuspunkt aussuchen (Bis Donnerstag , den 11.05.23).
-- Projektauftrag (Scope and outer scope)
-- Lasten- und Pflichtenheft
-- Projektstrukturplan
-- Netzplan oder Gatt-Chart
-Mögliche Unterpunkte sollten herausgefunden werden
 
 
 # text-summary
@@ -51,3 +44,13 @@ Peer-Evaluation:
 7. Risiken und Herausforderungen: Welche potenziellen Risiken und Herausforderungen können im Verlauf des Projekts auftreten, und wie sollen sie bewältigt werden?
 
 8. Kommunikations- und Berichterstattungsanforderungen: Welche Informationen müssen innerhalb des Projekts kommuniziert werden, und wer muss sie erhalten? Welche Berichte müssen erstellt und vorgelegt werden?
+
+
+
+# Brainstorming und Insights gathering (Definitionen und Umfang, ggf. Gedanken zum Inhalt)
+wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person sollte sich dann ein Fokuspunkt aussuchen (Bis Donnerstag , den 11.05.23).
+- Projektauftrag (Scope and outer scope)
+- Lasten- und Pflichtenheft
+- Projektstrukturplan
+- Netzplan oder Gatt-Chart
+Mögliche Unterpunkte sollten herausgefunden werden
