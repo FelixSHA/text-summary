@@ -7,7 +7,7 @@
 
 ## Projektauftrag
 - Entwicklung eines Tools zur Textzusammenfassung und –klassifikation in Kleingruppen, Anforderungen an die Funktionalität:
-  - Zusammenfassung eines gegebenen Textes unter Angabe einer gewünschten Kompressionsrate (z.B. 80%  entspricht einer ungefähren Reduktion der Anzahl Wörter um 80%)
+  - Zusammenfassung eines gegebenen Textes unter Angabe einer gewünschten Kompressionsrate (z.B. 80% entspricht einer ungefähren Reduktion der Anzahl Wörter um 80%)
   - Klassifizierung der Texte in Oberkategorien wie z.B. Nachrichtenartikel, literarischer Text, Blogbeitrag,…)
 - Verwendung eines mehrstufigen Ansatzes (z.B. Data Selection, Preprocessing und Training des Modells) inkl. Auswahl und Anpassung eines geeigneten Algorithmus
 - Evaluation des erstellten Tools anhand geeigneter Metriken (nicht nur Accuracy basierend auf Testdaten!)
