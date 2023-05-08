@@ -53,4 +53,5 @@ wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person s
 - Lasten- und Pflichtenheft
 - Projektstrukturplan
 - Netzplan oder Gatt-Chart
+
 Mögliche Unterpunkte sollten herausgefunden werden
