@@ -25,4 +25,3 @@ Peer-Evaluation:
 - Nicht verteilte Punkte können verfallen, z.B. wenn ein Projektmitglied keine Leistung im Projekt erbracht hat
 
 - Sollten sich einzelne Projektmitglieder in der Bewertung benachteiligt fühlen oder sollte sich die Projektgruppe nicht auf eine Verteilung der Punkte einigen können, sind die Dozenten einzubeziehen
-![image](https://user-images.githubusercontent.com/105482809/236819965-5bd6ff93-b5fe-477d-aecd-c098d4913e4f.png)
