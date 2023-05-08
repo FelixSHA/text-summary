@@ -49,9 +49,9 @@ Peer-Evaluation:
 # Arbeitsstand und Fortschritt
 ## Brainstorming und Insights gathering (Definitionen und Umfang, ggf. Gedanken zum Inhalt)
 wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person sollte sich dann ein Fokuspunkt aussuchen (Bis Donnerstag , den 11.05.23).
-- Projektauftrag (Scope and outer scope)
-- Lasten- und Pflichtenheft
-- Projektstrukturplan
-- Netzplan oder Gatt-Chart
+- Projektauftrag (Scope and outer scope) (Felix)
+- Lasten- und Pflichtenheft (Chengyi)
+- Projektstrukturplan (Qusay)
+- Netzplan oder Gatt-Chart (Dennis)
 
 Mögliche Unterpunkte sollten herausgefunden werden
