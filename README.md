@@ -16,3 +16,13 @@
 
 ## Benotung
 ![image](https://user-images.githubusercontent.com/105482809/236819296-2fe7c9e2-6578-4a12-b2fc-f8ec70a6dd46.png)
+
+30% der Note von den Dozenten, 70% der Note aus der Peer-Evaluation in den Projektgruppen
+Peer-Evaluation:
+- Es wird eine maximal zu verteilende Gesamtpunktzahl für die Projektgruppe gebenPunkte der Dozenten multipliziert mit der Anzahl der Projektmitglieder
+- Die Projektgruppe kann über die Verteilung der Punkte je nach Leistung einzelner Mitglieder selbst bestimmen
+- Ein Projektmitglied kann maximal 100 Punkte bekommen
+- Nicht verteilte Punkte können verfallen, z.B. wenn ein Projektmitglied keine Leistung im Projekt erbracht hat
+
+- Sollten sich einzelne Projektmitglieder in der Bewertung benachteiligt fühlen oder sollte sich die Projektgruppe nicht auf eine Verteilung der Punkte einigen können, sind die Dozenten einzubeziehen
+![image](https://user-images.githubusercontent.com/105482809/236819965-5bd6ff93-b5fe-477d-aecd-c098d4913e4f.png)
