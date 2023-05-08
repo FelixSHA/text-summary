@@ -25,3 +25,20 @@ Peer-Evaluation:
 - Nicht verteilte Punkte können verfallen, z.B. wenn ein Projektmitglied keine Leistung im Projekt erbracht hat
 
 - Sollten sich einzelne Projektmitglieder in der Bewertung benachteiligt fühlen oder sollte sich die Projektgruppe nicht auf eine Verteilung der Punkte einigen können, sind die Dozenten einzubeziehen
+
+## Projectscope
+1. Projektleistung: Was genau soll im Rahmen des Projekts erreicht werden? Was sind die Ziele und Ergebnisse, die erwartet werden?
+
+2. Projektdauer: Wie lange wird das Projekt dauern? Wann muss es abgeschlossen sein?
+
+3. Projektressourcen: Welche Ressourcen werden benötigt, um das Projekt durchzuführen, wie z.B. Arbeitskräfte, Budget, Technologie, Ausrüstung, Materialien usw.?
+
+4. Projektumfang: Was ist im Projekt enthalten und was nicht? Welche Aktivitäten und Prozesse sind im Projektumfang enthalten?
+
+5. Projektmeilensteine: Welche wichtigen Ereignisse oder Schritte müssen im Rahmen des Projekts erreicht werden, um das Projekt erfolgreich abzuschließen?
+
+6. Projektgrenzen: Was ist der Rahmen des Projekts? Was sind die Grenzen und Einschränkungen, die berücksichtigt werden müssen?
+
+7. Risiken und Herausforderungen: Welche potenziellen Risiken und Herausforderungen können im Verlauf des Projekts auftreten, und wie sollen sie bewältigt werden?
+
+8. Kommunikations- und Berichterstattungsanforderungen: Welche Informationen müssen innerhalb des Projekts kommuniziert werden, und wer muss sie erhalten? Welche Berichte müssen erstellt und vorgelegt werden?
