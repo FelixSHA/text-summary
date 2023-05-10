@@ -1,9 +1,9 @@
 
 
 # text-summary
-
-## Overleaf Layout
-https://de.overleaf.com/1357291582ctfyrsvsjshc
+## Links
+- Overleaf Layout: https://de.overleaf.com/1357291582ctfyrsvsjshc
+- Erste Gedanken_Last- und Pflichtenheft: https://github.com/FelixSHA/text-summary/blob/main/Lasten_pf_info.md
 
 ## Deadlines
 - 24.05.2023 – Projektauftrag
