@@ -55,6 +55,6 @@ wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person s
 - Projektauftrag (Scope and outer scope) (Felix)
 - Lasten- und Pflichtenheft (Chengyi)
 - Projektstrukturplan (Qusay)
-- Netzplan oder Gatt-Chart (Dennis)
+- Netzplan oder Gatt-Chart, mögliche Modelle und Bewertungsmatrix (Dennis)
 
 Mögliche Unterpunkte sollten herausgefunden werden
