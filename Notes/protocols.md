@@ -5,39 +5,27 @@
 ### Anwesende
 1. Dennis
 2. Qusay
-3. Chengi
+3. Chengyi
 4. Felix
 
 ### Agenda
 
-1. **Statusbericht des Projektleiters** ([Platzhalter für Name des Projektleiters])
-    - Aktueller Fortschritt
-    - Herausforderungen und Lösungsansätze
-    - Kommunikation mit Stakeholdern
-
-2. **Statusbericht des Datenwissenschaftlers** ([Platzhalter für Name des Datenwissenschaftlers])
-    - Status der Algorithmusauswahl und -anpassung
-    - Status des Modelltrainings und der -evaluation
-
-3. **Statusbericht des Softwareentwicklers** ([Platzhalter für Name des Softwareentwicklers])
-    - Status der Tool-Implementierung
-    - Status der Toolchain-Auswahl
-
-4. **Statusbericht des QA-Ingenieurs** ([Platzhalter für Name des QA-Ingenieurs])
-    - Status der Qualitätssicherung und des Softwaretests
-
-5. **Diskussion und Problemlösung**
-    - Diskussion über aktuelle Probleme und mögliche Lösungen
+* Abgrenzung der einzelnen Dokumentionsarten (Scope, L/P-Heft, ...)
+* Mögliche Aufteilungen der Arbeit diskutiert
 
 ### Aktionspunkte für die nächste Sitzung
 
-1. [Platzhalter für Aktionspunkt 1]
-2. [Platzhalter für Aktionspunkt 2]
-3. [Platzhalter für Aktionspunkt 3]
+1. Abstecken, welche Anforderungen erfüllt werden sollen
+2. Technische Umsetzung bestimmen
+   1. Umgebung (lokal, web)
+   2. Frontend ja, nein
+   3. Daten für Modelle
+   4. Wie Probleme aufteilen? (Klassifizierung und Zusammenfassung getrennt?)
+3. Gliederung von L-/P-Heft festlegen
 
 ### Nächste Sitzung
 
-- Datum und Zeit: [Platzhalter]
+- Datum und Zeit: 12.05 12.00 Uhr
   
 ---
 
