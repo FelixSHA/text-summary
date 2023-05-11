@@ -55,6 +55,6 @@ wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person s
 - Projektauftrag (Scope and outer scope),Ein Projektauftrag ist ein Dokument, das den Zweck, die Ziele, den Umfang, die Zeitplanung, die Ressourcen und andere wichtige Aspekte eines Projekts beschreibt. (Felix)
 - Lasten- und Pflichtenheft (Chengyi)
 - Projektstrukturplan, Ein Projektstrukturplan (PSP) ist ein hierarchisches Diagramm, das die Aufgaben und Arbeitspakete eines Projekts darstellt. (Qusay)
-- Netzplan oder Gatt-Chart, mögliche Modelle und Bewertungsmatrix (Dennis)
+- Netzplan oder Gantt-Chart, mögliche Modelle und Bewertungsmatrix (Dennis)
 
 Mögliche Unterpunkte sollten herausgefunden werden
