@@ -52,9 +52,9 @@ Peer-Evaluation:
 # Arbeitsstand und Fortschritt
 ## Brainstorming und Insights gathering (Definitionen und Umfang, ggf. Gedanken zum Inhalt)
 wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person sollte sich dann ein Fokuspunkt aussuchen (Bis Donnerstag , den 11.05.23).
-- Projektauftrag (Scope and outer scope) (Felix)
+- Projektauftrag (Scope and outer scope),Ein Projektauftrag ist ein Dokument, das den Zweck, die Ziele, den Umfang, die Zeitplanung, die Ressourcen und andere wichtige Aspekte eines Projekts beschreibt. (Felix)
 - Lasten- und Pflichtenheft (Chengyi)
-- Projektstrukturplan (Qusay)
+- Projektstrukturplan, Ein Projektstrukturplan (PSP) ist ein hierarchisches Diagramm, das die Aufgaben und Arbeitspakete eines Projekts darstellt. (Qusay)
 - Netzplan oder Gatt-Chart, mögliche Modelle und Bewertungsmatrix (Dennis)
 
 Mögliche Unterpunkte sollten herausgefunden werden
