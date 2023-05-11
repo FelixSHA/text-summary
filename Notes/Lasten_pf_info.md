@@ -65,3 +65,5 @@ Das Ziel dieses Projekts ist die Entwicklung eines Tools zur Textzusammenfassung
 - Das Tool soll auf eine hohe Genauigkeit bei der Zusammenfassung und Klassifizierung von Texten optimiert sein, dazu sollte man passende Metriken überlegen
 - Das Tool soll mit einer ausreichenden Anzahl von Testfällen validiert werden
 - Das Tool soll mit einer entsprechenden Dokumentation versehen
+
+![image](https://github.com/FelixSHA/text-summary/assets/105482809/05739e03-1ae0-4d53-b0ce-6505fba58147)
