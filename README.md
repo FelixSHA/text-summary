@@ -58,3 +58,8 @@ wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person s
 - Netzplan oder Gantt-Chart, mögliche Modelle und Bewertungsmatrix (Dennis)
 
 Mögliche Unterpunkte sollten herausgefunden werden
+
+
+## Todo list (Stand: 12.05.2023)
+- Fragen: library Einschränkungen. etc. Stemming Packages für NLP
+- 
