@@ -70,3 +70,43 @@ Das Ziel dieses Projekts ist die Entwicklung eines Tools zur Textzusammenfassung
 
 ## Schematische Darstellung
 ![image](https://github.com/FelixSHA/text-summary/assets/105482809/05739e03-1ae0-4d53-b0ce-6505fba58147)
+
+## Mögliche Gliederung
+### Struktur des Lastenheftes
+1. Einleitung
+  1.1 Hintergrund
+  1.2 Zielsetzung
+  1.3 Umfang
+2. Anforderungen
+  2.1 Funktionsumfang
+    2.1.1 Textzusammenfassung
+    2.1.2 Textklassifikation
+  2.2 Performance-Anforderungen
+    2.2.1 Schnelligkeit und Reaktionszeit
+    2.2.2 Speicherplatzbedarf
+  2.3 Bedienbarkeit
+    2.3.1 Benutzerfreundlichkeit
+    2.3.2 Einfache Integration
+  2.4 Sicherheitsanforderungen
+    2.4.1 Datenverschlüsselung (?)
+    2.4.2 Zugriffsrechte-Management 
+  2.5 Erweiterbarkeit
+    2.5.1 Möglichkeit zur Erweiterung der Sprachen und Textarten
+    2.5.2 Möglichkeit zur Integration von neuen Funktionen
+3. Annahmen und Einschränkungen
+  3.1 Annahmen
+    3.1.1 Verwendung von Open-Source-Tools und Algorithmen
+    3.1.2 Vorhandensein ausreichend großer Textdatenbanken
+  3.2 Einschränkungen
+    3.2.1 Beschränkung auf bestimmte Textarten
+    3.2.2 Beschränkung auf bestimmte Sprachen
+4. Abnahmekriterien
+  4.1 Abnahmekriterien für die Textzusammenfassung
+  4.2 Abnahmekriterien für die Textklassifikation
+  4.3 Abnahmekriterien für die Performance
+  4.4 Abnahmekriterien für die Bedienbarkeit
+  4.5 Abnahmekriterien für die Sicherheit
+  4.6 Abnahmekriterien für die Erweiterbarkeit
+5. Glossar
+  5.1 Definitionen von Begriffen, die im Lastenheft verwendet werden.
+
