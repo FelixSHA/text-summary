@@ -100,7 +100,7 @@ Das Ziel dieses Projekts ist die Entwicklung eines Tools zur Textzusammenfassung
    - 3.2 Einschränkungen
      - 3.2.1 Beschränkung auf bestimmte Textarten
      -  3.2.2 Beschränkung auf bestimmte Sprachen
-4. Abnahmekriterien
+4. Abnahmekriterien (Kundensicht)
    - 4.1 Abnahmekriterien für die Textzusammenfassung
    - 4.2 Abnahmekriterien für die Textklassifikation
    - 4.3 Abnahmekriterien für die Performance
@@ -110,3 +110,54 @@ Das Ziel dieses Projekts ist die Entwicklung eines Tools zur Textzusammenfassung
 5. Glossar
    - 5.1 Definitionen von Begriffen, die im Lastenheft verwendet werden.
 
+
+### Struktur Pflichtenheft
+1. Einleitung
+   - 1.3 Verwendete Techniken
+   - 1.4 Ablaufbeschreibung (Implementation)
+2. Beschreibung des Tools
+   - 2.1 Übersicht
+   - 2.2 Funktionen (Beschreibung)
+     - 2.2.1 Textzusammenfassung
+     - 2.2.2 Textklassifikation
+   - 2.3 Schnittstellen
+     - 2.3.1 Integration in bestehende Systeme
+     - 2.3.2 Schnittstellen
+3. Anforderungen an die Umsetzung
+   - 3.1 Technische Anforderungen
+     - 3.1.1 Hardware-Anforderungen
+     - 3.1.2 Software-Anforderungen
+   - 3.2 Design-Anforderungen
+     - 3.2.1 Benutzeroberfläche
+     - 3.2.2 Funktionsweise
+   - 3.3 Performance-Anforderungen
+     - 3.3.1 Schnelligkeit und Reaktionszeit
+     - 3.3.2 Speicherplatzbedarf
+   - 3.4 Sicherheitsanforderungen
+     - 3.4.1 Datenverschlüsselung
+     - 3.4.2 Zugriffsrechte-Management
+4. Test- und Qualitätsanforderungen
+   - 4.1 Testverfahren
+     - 4.1.1 Systemtests
+     - 4.1.2 Integrationstests
+     - 4.1.3 Funktionstests
+   - 4.2 Qualitätsanforderungen
+     - 4.2.1 Zuverlässigkeit
+     - 4.2.2 Wartbarkeit
+     - 4.2.3 Benutzerfreundlichkeit
+5. Dokumentationsanforderungen
+   - 5.1 Anforderungen an die technische Dokumentation
+   - 5.2 Anforderungen an die Benutzerdokumentation
+6. Projektmanagement (generelle Information)
+   - 6.1 Zeitplan
+   - 6.2 Ressourcenplan
+   - 6.3 Risikomanagement
+7. Abnahmekriterien (Entwicklersicht)
+   - 7.1 Abnahmekriterien für die Textzusammenfassung
+   - 7.2 Abnahmekriterien für die Textklassifikation
+   - 7.3 Abnahmekriterien für die Performance
+   - 7.4 Abnahmekriterien für die Bedienbarkeit
+   - 7.5 Abnahmekriterien für die Sicherheit
+   - 7.6 Abnahmekriterien für die Erweiterbarkeit
+8. Glossar
+   - 8.1 Definitionen von Begriffen, die im Pflichtenheft verwendet werden.
