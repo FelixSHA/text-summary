@@ -74,9 +74,9 @@ Das Ziel dieses Projekts ist die Entwicklung eines Tools zur Textzusammenfassung
 ## Mögliche Gliederung
 ### Struktur des Lastenheftes
 1. Einleitung
-  * 1.1 Hintergrund
-  * 1.2 Zielsetzung
-  * 1.3 Umfang
+  - 1.1 Hintergrund
+  - 1.2 Zielsetzung
+  - 1.3 Umfang
 2. Anforderungen
   2.1 Funktionsumfang
     2.1.1 Textzusammenfassung
