@@ -29,6 +29,30 @@
   
 ---
 
+## 14.05
+
+### Anwesende
+1. Dennis
+2. Qusay
+3. Chengyi
+4. Felix
+
+### Agenda
+
+* Sammlung von Fragen
+* Diskution technsihcer Aspekte
+* Klärung der Gliederung von L.- und Pflichtenheft
+
+### Aktionspunkte für die nächste Sitzung
+
+1. Gliederung-Vorschlag ausarbeiten
+
+### Nächste Sitzung
+
+- Datum und Zeit: 16.05 11:30 Uhr
+
+---
+
 ## Datum
 
 ### Anwesende
