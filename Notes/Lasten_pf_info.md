@@ -78,9 +78,9 @@ Das Ziel dieses Projekts ist die Entwicklung eines Tools zur Textzusammenfassung
    - 1.2 Zielsetzung
    - 1.3 Umfang
 2. Anforderungen
-  2.1 Funktionsumfang
-    2.1.1 Textzusammenfassung
-    2.1.2 Textklassifikation
+   - 2.1 Funktionsumfang
+     - 2.1.1 Textzusammenfassung
+     - 2.1.2 Textklassifikation
   2.2 Performance-Anforderungen
     2.2.1 Schnelligkeit und Reaktionszeit
     2.2.2 Speicherplatzbedarf
