@@ -47,11 +47,15 @@
      -  3.2.2 Beschränkung auf bestimmte Sprachen
 4. Abnahmekriterien (Kundensicht)
    - 4.1 Abnahmekriterien für die Textzusammenfassung
+      - 4.1.1 Performance
+      - 4.1.2 Bedienbarkeit
+      - 4.1.3. Sicherheit
+      - 4.1.4. Erweiterbarkeit
    - 4.2 Abnahmekriterien für die Textklassifikation
-   - 4.3 Abnahmekriterien für die Performance
-   - 4.4 Abnahmekriterien für die Bedienbarkeit
-   - 4.5 Abnahmekriterien für die Sicherheit
-   - 4.6 Abnahmekriterien für die Erweiterbarkeit
+      - 4.2.1 Performance
+      - 4.2.2 Bedienbarkeit
+      - 4.2.3. Sicherheit
+      - 4.2.4. Erweiterbarkeit
 5. Glossar
    - 5.1 Definitionen von Begriffen, die im Lastenheft verwendet werden.
 
@@ -59,15 +63,18 @@
 ## Struktur Pflichtenheft
 
 1. Einleitung
-   - 1.3 Verwendete Techniken
-   - 1.4 Ablaufbeschreibung (Implementation)
+   - 1.1 Ablaufbeschreibung (Implementation)
+   - 1.2 Verwendete Techniken
+      - 1.1.1 ...
+      - 1.1.2 ...
+      - ... (*Die eizelnen Schritte im Ablauf (Modellierung Summerizer, Modellierung Klassifier, Datenaufbereitung, Frontend, ...)*)
 2. Beschreibung des Tools
    - 2.1 Übersicht
    - 2.2 Funktionen (Beschreibung)
      - 2.2.1 Textzusammenfassung
      - 2.2.2 Textklassifikation
    - 2.3 Schnittstellen
-     - 2.3.1 Integration in bestehende Systeme
+     - 2.3.1 Integration in bestehende Systeme (*Dennis: welche?*)
      - 2.3.2 Schnittstellen
 3. Anforderungen an die Umsetzung
    - 3.1 Technische Anforderungen
@@ -79,10 +86,10 @@
    - 3.3 Performance-Anforderungen
      - 3.3.1 Schnelligkeit und Reaktionszeit
      - 3.3.2 Speicherplatzbedarf
-   - 3.4 Sicherheitsanforderungen
+   - 3.4 Sicherheitsanforderungen (*Dennis: werden wir wsh nicht implementieren*)
      - 3.4.1 Datenverschlüsselung
      - 3.4.2 Zugriffsrechte-Management
-4. Test- und Qualitätsanforderungen
+4. Test- und Qualitätsanforderungen (*Dennis: würde hier eher auf die Evaluierungsmetriken gehen (BLEU, ROUGE, Human Evaluation)*)
    - 4.1 Testverfahren
      - 4.1.1 Systemtests
      - 4.1.2 Integrationstests
@@ -96,14 +103,22 @@
    - 5.2 Anforderungen an die Benutzerdokumentation
 6. Projektmanagement (generelle Information)
    - 6.1 Zeitplan
+   (Gantt)
    - 6.2 Ressourcenplan
-   - 6.3 Risikomanagement
+   - 6.3 Risikomanagement (*Dennis: meh*)
 7. Abnahmekriterien (Entwicklersicht)
    - 7.1 Abnahmekriterien für die Textzusammenfassung
+      - 7.1.1 Performance
+      - 7.1.2 Bedienbarkeit
+      - 7.1.3. Sicherheit
+      - 7.1.4. Erweiterbarkeit
    - 7.2 Abnahmekriterien für die Textklassifikation
-   - 7.3 Abnahmekriterien für die Performance
-   - 7.4 Abnahmekriterien für die Bedienbarkeit
-   - 7.5 Abnahmekriterien für die Sicherheit
-   - 7.6 Abnahmekriterien für die Erweiterbarkeit
+      - 7.2.1 Performance
+      - 7.2.2 Bedienbarkeit
+      - 7.2.3. Sicherheit
+      - 7.2.4. Erweiterbarkeit (*Dennis: Gliederung ist so sinnvoller*)
 8. Glossar
    - 8.1 Definitionen von Begriffen, die im Pflichtenheft verwendet werden.
+
+![](https://images.acquisa.de/media/pages/magazin/lastenheft-pflichtenheft/ddec44d260-1673887926/lastenheft-pflichtenheft-infografik.png?width=762&fit=1&enlarge=0&v=ddec44d260-1673887926)
+
