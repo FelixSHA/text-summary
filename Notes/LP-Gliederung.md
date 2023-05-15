@@ -4,14 +4,20 @@
 
 ## Struktur des Lastenheftes
 
-1. Einleitung
+1. Einleitung *-> Qusay: "Allgemeines" finde ich besser. Und ich würde folgende Abschnitte vorschlagen:*
+   - 1.1 Ziel und Zweck des Dokumentes
+   - 1.2 Ausgangssituation
+   - 1.3 Projektbezug
+   - 1.4 Abkürzungen
+   - 1.5 Verteiler und Freigabe
+   *-> Qusay: bis hier*
    - 1.1 Hintergrund
      - ggf. inkl Motivation
    - 1.2 Zielsetzung
      - Aufgabenstellung von Dozenten
      - (nicht vorhandenen) Istzustand erläutern
    - 1.3 Umfang
-2. Anforderungen
+2. Anforderungen *-> Qusay: Ich würde diesen Abschnitt in funktionale und nicht-funktionale Anforderungen etc. aufteilen. Vllt. noch Umsetzungsanforderungen: Data Selection,Vorverarbeitung, etc.*
    - 2.1 Funktionsumfang
      - 2.1.1 Textzusammenfassung
      - 2.1.2 Textklassifikation
@@ -21,12 +27,17 @@
    - 2.3 Bedienbarkeit
      - 2.3.1 Benutzerfreundlichkeit
      - 2.3.2 Einfache Integration
-   - 2.4 Sicherheitsanforderungen *-> Felix: würde ich ggf. weglassen, aber guter Gedanke*
+     - *-> Qusay (mögliche Anforderungen/Eigenschaften): + Hohe Genauigkeit, + Eigenständige Anwendung, + modulare Architektur: Zusammenfassung getrennt von der Klassifikation, grafische Benutzeroberfläche, Qualitätssicherung: z.B. durch Tests*
+   - 2.4 Sicherheitsanforderungen *-> Felix: würde ich ggf. weglassen, aber guter Gedanke; Qusay: könnten die Umsetzung zu kompliziert machen*
      - 2.4.1 Datenverschlüsselung (?)
      - 2.4.2 Zugriffsrechte-Management 
    - 2.5 Erweiterbarkeit
      - 2.5.1 Möglichkeit zur Erweiterung der Sprachen und Textarten
      - 2.5.2 Möglichkeit zur Integration von neuen Funktionen
+   *-> Qusay:ich würde folgenden Abschnitt vorschlagen:*
+   - *2.6 Projektmanagement*
+     - *2.6.1 Projektplan (Entwicklungsmodell, Projektphasen, Meilensteine, Zeitplan)*
+     - *2.6.2 Ressourcenplanung (Hardware-, Software-Ressourcen, Datenquellen, Experten/Erfahrung)*
 3. Annahmen und Einschränkungen
    - 3.1 Annahmen
      - 3.1.1 Verwendung von Open-Source-Tools und Algorithmen
