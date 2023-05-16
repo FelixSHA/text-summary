@@ -63,5 +63,6 @@ Mögliche Unterpunkte sollten herausgefunden werden
 ## Todo list (Stand: 12.05.2023)
 - Fragen: library Einschränkungen. etc. Stemming Packages für NLP
 - Trennung von Lasten und Pflichtenheft? (ein Dokument, aber visuel getrennt)
+-   Trennung der verschiedenen Abgaben?
 - Wie deatilliert / genau auf Projekttechnik eingehen (z.B. Scrum)
 - Wie viek fiktive Vorrasusetzungne können wir erschaffen? Auftreten als Unternehmen? z.B. Herausforderungen auf unsere Situtation als Studis anpassen
