@@ -80,6 +80,28 @@
 ## Datum
 
 ### Anwesende
+1. Qusay
+2. Chengyi
+3. Felix
+
+### Agenda
+
+- Absprache der Anforderungen in L/P-Heft
+
+### Aktionspunkte für die nächste Sitzung
+
+1. Planen von Präsentation
+2. Planen von Projektscope
+
+### Nächste Sitzung
+
+- Datum und Zeit: 20.05 14:00 Uhr
+
+---
+
+## Datum
+
+### Anwesende
 1. Dennis
 2. Qusay
 3. Chengyi
