@@ -2,12 +2,8 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import WordNetLemmatizer
-# nltk.download()
 
-def process_summary(text):
-    # Perform the necessary operations to generate the summary
-    # Replace this with your actual summary generation logic
-
+def preprocess_text(text):
     # Tokenize text into sentences
     sentences = sent_tokenize(text)
     
@@ -29,4 +25,12 @@ def process_summary(text):
     # Flatten the list of words into a single list
     flattened_words = [word for sentence in lemmatized_words for word in sentence]
     
-    return ("Flattend words: " + str(flattened_words))
+    return flattened_words
+
+# Example usage:
+document = """
+   You should only add tooltips to HTML elements that are traditionally keyboard-focusable and interactive (such as links or form controls). Although arbitrary HTML elements (such as <span>s) can be made focusable by adding the tabindex="0" attribute, this will add potentially annoying and confusing tab stops on non-interactive elements for keyboard users. In addition, most assistive technologies currently do not announce the tooltip in this situation.
+    """
+preprocessed_words = preprocess_text(document)
+print(str(preprocessed_words))
+
