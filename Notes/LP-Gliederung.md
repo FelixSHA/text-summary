@@ -4,7 +4,7 @@
 
 ## Struktur des Lastenheftes
 
-1. Allgemeines *-> Qusay: "Allgemeines" finde ich besser. Und ich würde folgende Abschnitte vorschlagen:*
+1. Allgemeines
    - 1.1 Ziel und Zweck des Dokumentes
    - 1.2 Ausgangssituation
      - Keine Datensätze vorhanden
@@ -18,27 +18,29 @@
      - Aufgabenstellung von Dozenten
      - (nicht vorhandenen) Istzustand erläutern
    - 1.3 Umfang
-2. Anforderungen *-> Qusay: Ich würde diesen Abschnitt in funktionale und nicht-funktionale Anforderungen etc. aufteilen. Vllt. noch Umsetzungsanforderungen: Data Selection,Vorverarbeitung, etc.*
-   - 2.1 Funktionsumfang
-     - 2.1.1 Textzusammenfassung
-     - 2.1.2 Textklassifikation
-       - Welche Klassen? ggf.Grob formulieren
-   - 2.2 Performance-Anforderungen
-     - 2.2.1 Schnelligkeit und Reaktionszeit
-     - 2.2.2 Speicherplatzbedarf
-   - 2.3 Bedienbarkeit
-     - 2.3.1 Benutzerfreundlichkeit
-     - 2.3.2 Einfache Integration
+2. Anforderungen
+   - 2.1 Funktionale Anforderungen
+      - 2.2.1 Funktionsumfang
+         - Textzusammenfassung
+         - Textklassifikation
+            - Welche Klassen? ggf.Grob formulieren
+   - 2.2 Nicht-funktionale Anforderungen
+      - 2.2.1 Performance-Anforderungen
+        - Schnelligkeit und Reaktionszeit
+        - Speicherplatzbedarf
+      - 2.2.2 Bedienbarkeit
+        - Benutzerfreundlichkeit
+        - Einfache Integration
      - *-> Qusay (mögliche Anforderungen/Eigenschaften): + Hohe Genauigkeit, + Eigenständige Anwendung, + modulare Architektur: Zusammenfassung getrennt von der Klassifikation, grafische Benutzeroberfläche, Qualitätssicherung: z.B. durch Tests*
-   - 2.4 Sicherheitsanforderungen *-> Felix: würde ich ggf. weglassen, aber guter Gedanke; Qusay: könnten die Umsetzung zu kompliziert machen*
-     - 2.4.1 Datenverschlüsselung (?)
-     - 2.4.2 Zugriffsrechte-Management 
-   - 2.5 Erweiterbarkeit
-     - 2.5.1 Möglichkeit zur Erweiterung der Sprachen und Textarten
-     - 2.5.2 Möglichkeit zur Integration von neuen Funktionen
-   - 2.6 Projektmanagement
-     - 2.6.1 Projektplan (Entwicklungsmodell, Projektphasen, Meilensteine, Zeitplan)
-     - 2.6.2 Ressourcenplanung (Hardware-, Software-Ressourcen, Datenquellen, Experten/Erfahrung)
+      - 2.2.3 Sicherheitsanforderungen *-> Felix: würde ich ggf. weglassen, aber guter Gedanke; Qusay: könnten die Umsetzung zu kompliziert machen*
+        - Datenverschlüsselung (?)
+        - Zugriffsrechte-Management 
+      - 2.2.4 Erweiterbarkeit
+        - Möglichkeit zur Erweiterung der Sprachen und Textarten
+        - Möglichkeit zur Integration von neuen Funktionen
+      - 2.2.5 Projektmanagement
+        - Projektplan (Entwicklungsmodell, Projektphasen, Meilensteine, Zeitplan)
+        - Ressourcenplanung (Hardware-, Software-Ressourcen, Datenquellen, Experten/Erfahrung)
 3. Annahmen und Einschränkungen
    - 3.1 Annahmen
      - 3.1.1 Verwendung von( Open-Source-Tools und) geeigneten Algorithmen
@@ -76,19 +78,29 @@
      - Integration in bestehende Systeme
      - bestehende Seite des Auftragsgebers
      - (Schnittstellen)
-3. Anforderungen an die Umsetzung
-   - 3.1 Technische Anforderungen
-     - 3.1.1 Hardware-Anforderungen
-     - 3.1.2 Software-Anforderungen
-   - 3.2 Design-Anforderungen
-     - 3.2.1 Benutzeroberfläche
-     - 3.2.2 Funktionsweise
-   - 3.3 Performance-Anforderungen
-     - 3.3.1 Schnelligkeit und Reaktionszeit
-     - 3.3.2 Speicherplatzbedarf
-   - 3.4 Sicherheitsanforderungen
-     - 3.4.1 Datenverschlüsselung
-     - 3.4.2 Zugriffsrechte-Management
+3. Anforderungen an das Tool
+   - 2.1 Funktionale Anforderungen
+      - 2.2.1 Funktionsumfang
+         - Textzusammenfassung
+         - Textklassifikation
+            - Welche Klassen? ggf.Grob formulieren
+   - 2.2 Nicht-funktionale Anforderungen
+      - 2.2.1 Performance-Anforderungen
+        - Schnelligkeit und Reaktionszeit
+        - Speicherplatzbedarf
+      - 2.2.2 Bedienbarkeit
+        - Benutzerfreundlichkeit
+        - Einfache Integration
+      - 2.2.3 Sicherheitsanforderungen 
+        - Datenverschlüsselung
+        - Zugriffsrechte-Management 
+      - 2.2.4 Erweiterbarkeit
+        - Möglichkeit zur Erweiterung der Sprachen und Textarten
+        - Möglichkeit zur Integration von neuen Funktionen
+      - 2.2.5 Projektmanagement
+        - Projektplan (Entwicklungsmodell, Projektphasen, Meilensteine, Zeitplan)
+        - Ressourcenplanung (Hardware-, Software-Ressourcen, Datenquellen, Experten/Erfahrung)
+
 4. Test- und Qualitätsanforderungen
    - 4.1 Evaluierung
      - Metriken (BLEU, ROUGE, Human Evaluation)
