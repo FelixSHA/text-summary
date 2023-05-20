@@ -61,7 +61,10 @@ wichtig, jeder sollte sich grob über alle Themen informieren, aber pro Person s
 Mögliche Unterpunkte sollten herausgefunden werden
 
 
-## Todo list (Stand: 12.05.2023)
+## Todo list (Stand: 20.05.2023)
+- Wie genau Zusammenfassungs-Rate festlegen (kategorisch, ordinal) ?
+- Wie dtailliert Pipeline beschreiben?
+
 - Fragen: library Einschränkungen. etc. Stemming Packages für NLP
 - Trennung von Lasten und Pflichtenheft? (ein Dokument, aber visuel getrennt)
 -   Trennung der verschiedenen Abgaben?
