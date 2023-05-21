@@ -5,6 +5,9 @@
 - Overleaf Layout: https://de.overleaf.com/1357291582ctfyrsvsjshc
 - Erste Gedanken_Last- und Pflichtenheft: https://github.com/FelixSHA/text-summary/blob/main/Lasten_pf_info.md
 - Projektauftrag: https://docs.google.com/document/d/18aViCpW6MjI9Vd8EfT43Y_gWPoJc6jRY/edit?usp=share_link&ouid=118131299436790721314&rtpof=true&sd=true
+- Projektstrukturplan: https://de.overleaf.com/5969736439ffddxzxfvkkh
+- Powerpoint präsentation für Milenstein 1: https://onedrive.live.com/view.aspx?resid=12E303664571FB12%212060&id=documents
+
 
 ## Deadlines
 - 24.05.2023 – Projektauftrag
