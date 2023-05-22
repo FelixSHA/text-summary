@@ -67,6 +67,8 @@ Mögliche Unterpunkte sollten herausgefunden werden
 ## Todo list (Stand: 20.05.2023)
 - Wie genau Zusammenfassungs-Rate festlegen (kategorisch, ordinal) ?
 - Wie dtailliert Pipeline beschreiben?
+- Was erwarten Sie in der Präsentation an Struktur/Inhalt?
+- 
 
 - Fragen: library Einschränkungen. etc. Stemming Packages für NLP
 - Trennung von Lasten und Pflichtenheft? (ein Dokument, aber visuel getrennt)
