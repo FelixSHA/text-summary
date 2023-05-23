@@ -19,17 +19,39 @@
     </div>
   </nav>
   
-
   <div class="container py-4 flex-grow-1">
     <!-- Input Group -->
-    <div class="mb-3  text-center">
-      <form id="text-form">
-        <textarea class="form-control" id="input-text" name="input-text" rows="6" placeholder="Enter your text here..."></textarea>
-        <input type="submit" class="btn btn-primary btn-lg btn-block mt-3" value="Enter">
-      </form>
+    <div class="input-group mb-3">
+      <textarea class="form-control" id="input-text" name="input-text" rows="6" placeholder="Enter your text here..."></textarea>
+    </div>
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="card mb-3">
+          <div class="card-header">
+            <h2>Zusammenfassen</h2>
+          </div>
+          <div class="card-body">
+            <button class="btn btn-primary btn-lg btn-block" onclick="summarizeText()">Zusammenfassen</button>
+            <div class="form-group mt-3">
+              <label for="compression-slider">Kompressions-Rate:</label>
+              <input type="range" class="form-range" id="compression-slider" min="0" max="80" step="1">
+              <div id="compression-value" class="text-center mt-2">0%</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="card mb-3">
+          <div class="card-header">
+            <h2>Klassifizieren</h2>
+          </div>
+          <div class="card-body">
+            <button class="btn btn-primary btn-lg btn-block" onclick="classifyText()">Klassifizieren</button>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="mb-3 text-center">
-      <!-- <button class="btn btn-primary btn-lg btn-block" onclick="sendText()">Enter</button> -->
       <hr> <!-- Horizontal Divider -->
     </div>
     <!-- Output group -->
@@ -38,7 +60,7 @@
       <div class="col-lg-6">
         <div class="card mb-3">
           <div class="card-header">
-            <h2>Summary</h2>
+            <h2>Zusammenfassen</h2>
           </div>
           <div class="card-body">
             <p class="card-text" id="summary-text"></p>
@@ -49,7 +71,7 @@
       <div class="col-lg-6">
         <div class="card mb-3">
           <div class="card-header">
-            <h2>Classification</h2>
+            <h2>Klassifizieren</h2>
           </div>
           <div class="card-body">
             <p class="card-text" id="classification-text"></p>
@@ -58,6 +80,52 @@
       </div>
     </div>
   </div>
+
+
+  <!-- <div class="container py-4 flex-grow-1"> -->
+    <!-- Input Group -->
+    <!-- <div class="mb-3  text-center">
+      <form id="text-form">
+        <textarea class="form-control" id="input-text" name="input-text" rows="6" placeholder="Enter your text here..."></textarea>
+        <div class="row mt-3">
+          <div class="col">
+            <button class="btn btn-primary btn-lg btn-block" onclick="summarizeText()">Zusammenfassen</button>
+          </div>
+          <div class="col">
+            <button class="btn btn-primary btn-lg btn-block" onclick="classifyText()">Klassifizieren</button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="mb-3 text-center"> -->
+      <!-- <hr> Horizontal Divider -->
+    <!-- </div> -->
+    <!-- Output group -->
+    <!-- <div class="row"> -->
+      <!-- Summary -->
+      <!-- <div class="col-lg-6">
+        <div class="card mb-3">
+          <div class="card-header">
+            <h2>Summary</h2>
+          </div>
+          <div class="card-body">
+            <p class="card-text" id="summary-text"></p>
+          </div>
+        </div>
+      </div> -->
+      <!-- Classification -->
+      <!-- <div class="col-lg-6">
+        <div class="card mb-3">
+          <div class="card-header">
+            <h2>Classification</h2>
+          </div>
+          <div class="card-body">
+            <p class="card-text" id="classification-text"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
 
   <!-- Footer -->
   <footer class="footer bg-light text-center py-3 mt-auto">
